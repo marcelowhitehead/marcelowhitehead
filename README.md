@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/marcelo-whitehead-cacace-aa51731a4/" target="_blank">
 <img align="center" alt="marcelo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
-<a href=""https://www.instagram.com/marcelo.whi/" target="_blank">
+<a href="https://www.instagram.com/marcelo.whi/" target="_blank">
 <img align="center" alt="marcelo-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 <a href="https://github.com/marcelowhitehead" target="_blank">
