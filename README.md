@@ -18,7 +18,7 @@
 
 
 
-![Marcelo github stats](https://github-readme-stats.vercel.app/api/?username=marcelowhitehead&show_icons=true&title_color=7f22f0&icon_color=7f22f0&text_color=000000&bg_color=05000a)
+![Marcelo github stats](https://github-readme-stats.vercel.app/api/?username=marcelowhitehead&show_icons=true&title_color=7f22f0&icon_color=7f22f0&text_color=fffffff&bg_color=05000a)
   
 
 
