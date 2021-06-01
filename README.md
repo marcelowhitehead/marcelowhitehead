@@ -20,6 +20,3 @@
 
 ![Marcelo github stats](https://github-readme-stats.vercel.app/api/?username=marcelowhitehead&show_icons=true&title_color=7f22f0&icon_color=7f22f0&text_color=842bff&bg_color=0000000)
   
-
-
-![Snake animation](https://github.com/marcelowhitehead)
