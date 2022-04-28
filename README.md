@@ -13,7 +13,7 @@
 ## 
 
 - I live in Brazil, southeast
-- I have been working on PayGo as internship android developer :computer:
+- I have been working on PayGo as Junior android developer :computer:
 - I have been learnig more about Kotlin on android 
 
 
